@@ -1,6 +1,6 @@
 # Student Dropout Prediction
 
-Predicting student dropout ("YES" or "NO") based on different factors like grades, family income, etc.
+Predicting student dropout ("YES" or "NO") based on different factors like grades, family income, etc. using MLPClassifier and Sklearn pipeline.
 
 ![alt text](api_prediction.png)
 

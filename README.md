@@ -2,6 +2,8 @@
 
 Predicting student dropout ("YES" or "NO") based on different factors like grades, family income, etc.
 
+![alt text](api_prediction.png)
+
 ## Sklearn Pipeline
 ```python
 def train():
@@ -161,5 +163,3 @@ API response example:
     "prediction": "NO"
 }
 ```
-
-![alt text](api_prediction.png)
